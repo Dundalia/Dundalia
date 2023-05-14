@@ -1,4 +1,4 @@
-# ***An Avid Coder***
+# *** Davide ***
 ### Hello World 🌏 !!  <img src="https://github.com/ABSphreak/ABSphreak/blob/master/gifs/Hi.gif" width="35px">
 
 **ABOUT ME** <br>
@@ -8,8 +8,6 @@ I am presently pursuing Btech in *Information Technology*.<br><br>
 <i>"Those who can't remember the past are condemned to repeat it"</i> ~ Dynamic Programming
 
 <!--![visitors](https://komarev.com/ghpvc/?username=akshat-fsociety&style=flat-square&color=red)-->
-
-
 
  <img align ="right" alt="GIF" src="https://camo.githubusercontent.com/d3a9f3a787ffc69aa73aa0a5cb5a29b968b823b62d80f7b589a705664dde9e2b/68747470733a2f2f7777772e627970656f706c652e636f6d2f77702d636f6e74656e742f75706c6f6164732f323031392f30332f70656f706c652d61742d776f726b2e676966" width="300px" /> 
 
