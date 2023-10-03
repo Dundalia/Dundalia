@@ -1,4 +1,4 @@
-# *** Davide ***
+# Davide
 ### Hello World 🌏 !!  <img src="https://github.com/ABSphreak/ABSphreak/blob/master/gifs/Hi.gif" width="35px">
 
 **ABOUT ME** <br>
