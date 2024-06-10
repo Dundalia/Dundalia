@@ -2,7 +2,7 @@
 ### Hello World 🌏 !!  <img src="https://github.com/ABSphreak/ABSphreak/blob/master/gifs/Hi.gif" width="35px">
 
 **ABOUT ME** <br>
-Passionate about AI and mathematics, I am a data science consultant and dedicated student currently pursuing a Master's in Artificial Intelligence.
+Passionate about AI and mathematics, I am a data science consultant and dedicated student.
 
 <!--![visitors](https://komarev.com/ghpvc/?username=akshat-fsociety&style=flat-square&color=red)-->
 
