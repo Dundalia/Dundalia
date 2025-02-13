@@ -2,7 +2,9 @@
 ### Hello World 🌏 !!  <img src="https://github.com/ABSphreak/ABSphreak/blob/master/gifs/Hi.gif" width="35px">
 
 **ABOUT ME** <br>
-Passionate about AI and mathematics, I am a data science consultant and dedicated student.
+I am a PhD Student at Mila and Polytechnique Montréal under the supervision of Prof. Sarath Chandar and Prof. Amal Zouaq. My research focuses on the fundamental aspects of Natural Language Processing (NLP), particularly investigating large language models (LLMs).
+
+Prior to my doctoral studies, I earned a Master’s in Artificial Intelligence from the University of Bologna. During my time as a master’s student, I co-authored the paper TWOLAR: a TWO‑step LLM‑Augmented distillation method for passage Reranking, which was accepted to the European Conference on Information Retrieval (ECIR 2024). This work integrates knowledge distillation with language model–based ranking approaches and demonstrates state-of-the-art performance on widely adopted passage reranking benchmarks.
 
 <!--![visitors](https://komarev.com/ghpvc/?username=akshat-fsociety&style=flat-square&color=red)-->
 
