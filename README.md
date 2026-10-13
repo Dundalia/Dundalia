@@ -1,7 +1,1 @@
-# Hi
-
-I am Davide and I work with LLMs. 
-
---> [Here's my website](https://dundalia.github.io)
-
---> I am building [UILO](https://www.uilo.it) - an orientation platform for high school students
+# Hi, I am [Davide](https://dundalia.github.io) and [I](https://arxiv.org/abs/2403.17759) [work](https://arxiv.org/abs/2507.09792) [with](https://arxiv.org/abs/2601.06973) [LLMs](https://arxiv.org/abs/2605.11845).
